@@ -1,5 +1,3 @@
-:
-
 
 import html
 from io import BytesIO
